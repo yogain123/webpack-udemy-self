@@ -1,0 +1,8 @@
+:global(#header) {
+    color: red;
+  }
+  
+  .content {
+    color: green;
+  }
+  
